@@ -1,2 +1,0 @@
-ofxSpatialHash
-ofxSyphon
